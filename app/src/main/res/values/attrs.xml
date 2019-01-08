@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--圆圈进度-->
+    <declare-styleable name="CircleProgressbar">
+        <attr name="cpb_progress" format="float"/>
+        <attr name="cpb_maxProgress" format="float"/>
+        <attr name="cpb_backgroundProgressWidth" format="dimension"/>
+        <attr name="cpb_foregroundProgressWidth" format="dimension"/>
+        <attr name="cpb_backgroundProgressColor" format="color"/>
+        <attr name="cpb_foregroundProgressColor" format="color"/>
+        <attr name="cpb_roundedCorner" format="boolean"/>
+        <attr name="cpb_touchEnabled" format="boolean"/>
+        <attr name="cpb_clockwise" format="boolean"/>
+    </declare-styleable>
+
+</resources>
